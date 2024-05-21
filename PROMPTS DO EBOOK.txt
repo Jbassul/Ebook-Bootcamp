@@ -1,0 +1,22 @@
+Este repositório abrigará um projeto do curso da dio.me, sobre inteligência artificial, usei ferramentas como o Leonardo.AI para criar a imagem, e o ChatGPT para criar os textos. Usei o prompts: 
+
+faça um texto para um ebook focado no mundo canino, em especial sobre o processo de evolução de seu ancestral comum, os lobos, explorando a relação entre humanos e esses animais deste o início, mas sem ser um texto sobre biologia, como se fosse uma curiosidade, com um pouco de história
+
+(REGRAS)
+> Explique de maneira simples 
+> Deixe o texto enxuto
+> Traga títulos significativos para os tópicos
+
+O trecho abaixo é uma introdução, desenvolva-o para que seja pelo menos três vezes maior: A incrível jornada dos lobos para cães ilustra uma das mais fascinantes histórias de coevolução. Esta relação, que começou há milhares de anos com um simples ato de cooperação, evoluiu para uma amizade profunda e multifacetada. Hoje, os cães continuam a ser nossos companheiros fiéis, provando que essa parceria entre humanos e animais é, de fato, uma das mais duradouras e bem-sucedidas da história.
+
+Faça o mesmo com o seguinte trecho: Com o tempo, um entendimento silencioso começou a se formar. Os lobos que se aproximavam dos humanos recebiam restos de comida em troca de proteção e alerta contra outros predadores. Essa relação mutualista marcou o início de uma parceria que se mostraria fundamental para a evolução das duas espécies.
+
+faça o mesmo com o trecho a seguir (faça no máximo 5 parágrafos):A domesticação dos lobos foi um processo gradual. Os humanos começaram a selecionar e cuidar dos lobos mais dóceis e colaborativos. Esses lobos, com o tempo, evoluíram para se tornarem os primeiros cães domésticos. Esse processo de seleção natural e artificial permitiu que características como obediência, lealdade e um temperamento mais amigável se desenvolvessem.
+
+faça o mesmo com o trecho a seguir, com no máximo 4 parágrafos: Conforme os humanos migravam e exploravam novos territórios, seus cães os acompanhavam. Cada cultura e região desenvolveu suas próprias raças de cães, adaptadas às necessidades locais. Assim, surgiram os cães de caça, pastoreio, guarda e companhia, cada um com habilidades e características específicas.
+
+aça o mesmo com o trecho a seguir, com no máximo 4 parágrafos: Os cães sempre tiveram um papel especial nas sociedades humanas. Na mitologia egípcia, Anúbis, o deus dos mortos, é frequentemente representado com a cabeça de um chacal ou cão. Na China antiga, os cães eram valorizados como símbolos de sorte e proteção. Ao longo da história, os cães não só foram companheiros leais, mas também heróis de guerra, trabalhadores em fazendas e até exploradores espaciais.
+
+faça o mesmo com o trecho a seguir, com no máximo quatro parágrafos: Hoje, os cães são parte integral de muitas famílias ao redor do mundo. Eles não são apenas animais de estimação, mas membros queridos da família. Com a evolução da sociedade, a relação entre humanos e cães se fortaleceu ainda mais. Terapia assistida por animais, cães-guia e cães de resgate são apenas algumas das formas pelas quais esses incríveis animais continuam a servir e enriquecer nossas vidas.
+
+faça o mesmo com o trecho a seguir: A incrível jornada dos lobos para cães ilustra uma das mais fascinantes histórias de coevolução. Esta relação, que começou há milhares de anos com um simples ato de cooperação, evoluiu para uma amizade profunda e multifacetada. Hoje, os cães continuam a ser nossos companheiros fiéis, provando que essa parceria entre humanos e animais é, de fato, uma das mais duradouras e bem-sucedidas da história
